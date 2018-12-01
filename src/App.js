@@ -26,7 +26,7 @@ class App extends Component {
           <VideoPlayer
             width="100%"
             color="#3b3346"
-            source="https://s3.us-east-2.amazonaws.com/freecodecamp-hackaton/videos-for-testing/Dunes1.mp4"
+            source="https://dbofqilsy3dz.cloudfront.net/ya-sahra-homepage-low-bitrate.mp4"
           />
         </div>
         <div className="video-player">
@@ -40,7 +40,7 @@ class App extends Component {
           <VideoPlayer
             width="100%"
             color="#FF5216"
-            source="https://s3.us-east-2.amazonaws.com/freecodecamp-hackaton/videos-for-testing/Dunes1.mp4"
+            source="https://dbofqilsy3dz.cloudfront.net/ya-sahra-homepage-low-bitrate.mp4"
           />
         </div>
         <div className="video-player">
@@ -54,7 +54,7 @@ class App extends Component {
           <VideoPlayer
             width="100%"
             color="#0F9F4F"
-            source="https://s3.us-east-2.amazonaws.com/freecodecamp-hackaton/videos-for-testing/Dunes1.mp4"
+            source="https://dbofqilsy3dz.cloudfront.net/ya-sahra-homepage-low-bitrate.mp4"
           />
         </div>
         <div className="video-player">
@@ -68,7 +68,7 @@ class App extends Component {
           <VideoPlayer
             width="100%"
             color="#F8B700"
-            source="https://s3.us-east-2.amazonaws.com/freecodecamp-hackaton/videos-for-testing/Dunes1.mp4"
+            source="https://dbofqilsy3dz.cloudfront.net/ya-sahra-homepage-low-bitrate.mp4"
           />
         </div>
       </div>
