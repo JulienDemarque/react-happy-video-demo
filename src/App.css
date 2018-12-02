@@ -1,21 +1,48 @@
 .App {
+  padding: 20px;
+}
+
+.App img {
+  display: block;
+  margin: 20px auto;
+  width: 300px;
+}
+
+h1 {
   text-align: center;
+}
+
+.description {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 600px;
+  padding-bottom: 20px;
 }
 
 pre.language-jsx {
   margin: 0;
 }
 
-h3 {
+.exemple {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.exemple h3 {
   margin-bottom: 3px;
 }
 
+.code {
+  padding: 0 20px;
+  width: 400px;
+}
+
 .video-player {
-  background-color: rgb(220, 220, 220);
-  padding: 5px;
-  width: 96%;
-  max-width: 600px;
-  margin: 20px auto;
+  padding: 0 20px;
+  width: 400px;
+  text-align: center;
 }
 
 .video-player h3 {
